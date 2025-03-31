@@ -7,7 +7,7 @@ During this course, you will learn to use QuPath from the most basic tasks to so
 ## Contents
 
 - **Documents folder**: Contains a PDF file with a presentation explaining basic concepts before starting with QuPath, and a step-by-step guide to complete all the practical exercises of this course.
-- **Datasets**: All the datasets used during this course are uploaded to Google Drive and can be downloaded by accessing the URL contained inside `Datasets download.txt` or from [here](https://drive.google.com/drive/folders/13JEtxtspc8KR-JfI_tGM0_K2-m4Xv80R?usp=drive_link).
+- **Datasets**: All the datasets used during this course are uploaded to Google Drive and can be downloaded by accessing the URL contained inside `Datasets download.txt`.
 
 ## Exercises
 
