@@ -12,12 +12,13 @@ During this course, you will learn to use QuPath from the most basic tasks to so
 ## Exercises
 
 1. **Brightfield Images Analysis**
-   - Exercise 1: Positive & Negative cells Analysis.zip
-   - Exercise 2: RNAScope Detection.zip
+   - Exercise 1: `Positive & Negative cells Analysis.zip`. You will learn to deconvolve stainings on a brightfield image, to detect a tissue, to detect cells and to classify them.
+   - Exercise 2: `RNAScope Detection.zip`. You will learn to analyze spots in DAB staining after staining deconvolution, tissue detection and cell detection.
 
 2. **Fluorescence Images Analysis**
-   - Exercise 3: endothelial_analysis.zip
-   - Exercise 4: spatial_analysis.zip
+   - Exercise 3: `endothelial_analysis.zip`. You will learn how to perform an endothelial analysis using pixel classifiers in a fluorescence image. You will learn how to generate a script for batch analysis of a dataset.
+   - Exercise 4: `spatial_analysis.zip`. You will learn how to detect cells on a fluorescence image using QuPath's threshold-based cell detection and with deep learning tool [Cellpose](https://github.com/MouseLand/cellpose).
+     You will learn to detect tumor region inside the tissue. You will learn to classify cells and to calculate distances from cells to tumor and from a cell class to other cell classes.
 
 ## Getting Started
 
