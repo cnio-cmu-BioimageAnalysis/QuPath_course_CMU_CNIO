@@ -1,6 +1,6 @@
-# QuPath Course - Confocal Microscopy Unit at CNIO
+# QuPath Course - Confocal Microscopy Unit and Histopathology Unit at CNIO
 
-This is a repository with the guide and datasets created for a QuPath course in the Confocal Microscopy Unit at CNIO. This course covers image analysis for brightfield and fluorescence images.
+This is a repository with the guide and datasets created for a QuPath course in the Confocal Microscopy Unit and Histopathology Unit at CNIO. This course covers image analysis for brightfield and fluorescence images.
 
 During this course, you will learn to use QuPath from the most basic tasks to some complex workflow, with practical examples, using microscopy datasets.
 
